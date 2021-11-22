@@ -1,0 +1,50 @@
+body {
+    width: 50%;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    background-color: #ededed;
+    border-bottom: solid 2px #cf8a05;
+}
+
+section h2 {
+    color: #cf8a05;
+}
+
+/*altri modi possibili di esprimere lo stesso concetto*/
+
+/*
+#experience h2 {
+    color: #cf8a05;
+}
+*/
+
+/*
+.titolo-in-giallo {
+    color: #cf8a05;
+}
+*/
+
+/*
+#experience .titolo-in-giallo {
+    color: #cf8a05;
+}
+*/
+
+.item h3 {
+    font-style: italic;
+}
+
+main {
+    margin-left: 15px;
+}
+
+hr {
+    border-color: #cf8a05;
+}
+
+footer p {
+    font-size: 0.75em;
+}
